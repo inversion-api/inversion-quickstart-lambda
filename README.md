@@ -19,5 +19,4 @@ See https://github.com/inversion-api/inversion-engine for full documentation.
 
 Finally, we would love your feedback, bug reports, and best of all PRs!
 
-Thanks & enjoy!
-<br/>The Inversion team @ [Rocket Partners](http://rocketpartners.io)
+Thanks & enjoy, from the Inversion team @ [Rocket Partners](http://rocketpartners.io)
